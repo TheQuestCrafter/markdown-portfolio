@@ -1,4 +1,4 @@
-* Funny
-* Creative
+* _Funny_
+* __Creative__
   * Yep
   * Sup
